@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Cake</string>
+    <string-array name="list_name">
+        <item>banh1</item>
+        <item>banh2</item>
+        <item>banh3</item>
+        <item>banh4</item>
+        <item>banh5</item>
+        <item>banh6</item>
+        <item>banh7</item>
+        <item>banh8</item>
+        <item>banh9</item>
+        <item>banh10</item>
+        <item>banh11</item>
+        <item>banh12</item>
+        <item>banh13</item>
+        <item>banh14</item>
+        <item>banh15</item>
+        <item>banh16</item>
+        <item>banh17</item>
+        <item>banh18</item>
+        <item>banh19</item>
+        <item>banh20</item>
+        <item>banh21</item>
+        <item>banh22</item>
+        <item>banh23</item>
+        <item>banh24</item>
+        <item>banh25</item>
+        <item>banh26</item>
+        <item>banh27</item>
+        <item>banh28</item>
+        <item>banh29</item>
+        <item>banh30</item>
+    </string-array>
+</resources>
